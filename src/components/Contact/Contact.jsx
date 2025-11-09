@@ -72,13 +72,13 @@ const Contact = () => {
           </h3>
           <div>
             <p className="text-gray-300">📞 Phone:</p>
-            <p className="text-lg font-medium">+8801757532012</p>{" "}
+            <p className="text-lg font-medium">+8801540026119</p>{" "}
             {/* Replace with your phone */}
           </div>
           <div>
             <p className="text-gray-300">📧 Email:</p>
             <p className="text-lg font-medium">
-              mutashamahiya678@gmail.com
+              ekramulhaqueanik.cse1@gmail.com
             </p>{" "}
             {/* Replace with your email */}
           </div>
