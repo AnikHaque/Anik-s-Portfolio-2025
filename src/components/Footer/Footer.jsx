@@ -20,7 +20,7 @@ const Footer = () => {
       <div className="container mx-auto text-center">
         {/* Name / Logo */}
         <h2 className="text-xl font-semibold text-purple-500">
-          Jannatul Mahiya
+          Ekramul Haque
         </h2>
 
         {/* Navigation Links - Responsive */}
@@ -80,7 +80,7 @@ const Footer = () => {
 
         {/* Copyright Text */}
         <p className="text-sm text-gray-400 mt-6">
-          © 2025 Jannatul Mahiya. All rights reserved.
+          © 2025 Ekramul Haque. All rights reserved.
         </p>
       </div>
     </footer>
