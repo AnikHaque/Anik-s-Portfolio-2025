@@ -26,7 +26,7 @@ export const SkillsInfo = [
       { name: "CSS", logo: cssLogo },
       { name: "JavaScript", logo: javascriptLogo },
       { name: "React JS", logo: reactjsLogo },
-      { name: "Tailwind CSS", logo: tailwindcssLogo },
+      { name: "Tailwind", logo: tailwindcssLogo },
       { name: "Bootstrap", logo: bootstrapLogo },
     ],
   },
@@ -70,6 +70,22 @@ export const education = [
     grade: "3.40 CGPA",
     desc: "Completed a comprehensive program in Computer Science and Engineering with a strong foundation in software development, algorithms, and system design.",
     degree: "Bachelor of Computer Science & Engineering - BSC",
+  },
+  {
+    id: 1,
+    img: "https://images.seeklogo.com/logo-png/42/2/daffodil-international-university-logo-png_seeklogo-427709.png",
+    school: "University Laboratory College",
+    date: "Jan 2014 - August 2016",
+    desc: "Completed Higher Secondary education in the Science stream, focusing on subjects such as Physics, Chemistry, and Biology/Mathematics. Gained a strong foundation in scientific principles, analytical thinking, and problem-solving skills.",
+    degree: "Higher Secondary Certificate - HSC",
+  },
+  {
+    id: 1,
+    img: "https://images.seeklogo.com/logo-png/42/2/daffodil-international-university-logo-png_seeklogo-427709.png",
+    school: "Armanitola Govt High School",
+    date: "Jan 2012 - April 2014",
+    desc: "Completed Secondary School Certificate (SSC) in the Science stream, gaining a solid foundation in core subjects such as Physics, Chemistry, and Biology, along with strong analytical and problem-solving skills.",
+    degree: "Secondary School Certificate - SSC",
   },
 ];
 
