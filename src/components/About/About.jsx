@@ -66,7 +66,7 @@ const About = () => {
             gyroscope={true}
           >
             <img
-              src=""
+              src="https://i.postimg.cc/2SWqdD5R/92cad83f-81f6-407a-ab4f-de67b9f5b966-removebg-preview.png"
               alt="Anik Haque"
               className="w-full h-full rounded-full object-cover drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)]"
             />
